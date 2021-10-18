@@ -1,36 +1,56 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<meta charset="UTF-8"/>
-	<title>Tytuł strony</title>
-</head>
+     </head>
+     <body>
+            <h1>KUPA</h1>   
+            <img src="kupa.jpg" alt="kraj-obraz">
+            <p>Jakiś głupi tekst w dupe</p>
 
-<body>
-		<table border="1|0">
-		
-			<thead>
-<tr>
-	<th>Imię</th>
-	<th>Nazwisko</th>
-	<th>Adres</th>
-	<th>Nr telefonu</th>
-</tr>
-			</thead>
-			<tbody>
-	<tr>
-		<td colspan="1">Daniel</td> <td>Duś</td> <td>Jadzika 2/32</td> <td>739504212</tr>
-	</tr>
-	<tr>
-		<td colspan="1">Sebastian</td> <td>Wąsik</td> <td>Machowslki 32/23</td> <td>832321211</tr>
-	</tr>
-	<tr>
-		<td colspan="1">Adrian</td> <td>Holowatinc</td> <td>Malinowa 123/1</td> <td>738193912</tr>
-	</tr>
-	
-			</tbody>
-		
-		</table>
-		
+<div class="topnav">
+  <a class="active" href="#home">Nic</a>
+<br>
+  <a href="#news">Nadal nic</a>
+<br>
+  <a href="#contact">Nadal nic</a>
+<br>
+  <a href="#about">Jeszcze większe nic</a>
+</div>
+<br>
+<br>
+
+
+
+<div class="obrazki">
+<img src="dziwka.jpg"   alt="kurwa">
+<img src="kurwa.jpg"   alt="kurwa">
+<img src="szmata.jpg"  alt="szmata">
+</div>
+<br>
+<br>
+
+<strong>Kontakt:</strong>
+<p>
+Założyciele: Larry Page, Sergey Brin Zyskuje popularność<br>
+Założenie: 4 września 1998, Menlo Park, Kalifornia, Stany Zjednoczone<br>
+Prezes zarządu: Sundar Pichai (2 paź 2015–)<br>
+Siedziba: Mountain View, Kalifornia, Stany Zjednoczone<br>
+Przychody: 181,7 miliarda USD (2020)<br>
+Podmioty zależne: YouTube, Kaggle, Fitbit, AdMob, Nest Labs, WIĘCEJ<br>
+Organizacja macierzysta: Alphabet<br>
+<a class="strona" href="google.com"> www.google.com </a>
+</p>
+<div class="newsletter">
+<label>Aby zapisać się na newsletter podaj swój adres e-mail</label> <input type="text" name="newsletter" size="50" maxlength"30" />
+<input type="submit" value="Wyślij" />
+
+</div>
+
+<div class="odsyłacz">
+<a class="powrót na stronę" href="#home">Powrót na strone</a> <a class="google" href="www.google.com">google.com</a>
+</div>
+<br>
+<p>Copyright biuro latania GLOB ©</p>
 
 </body>
 </html>
